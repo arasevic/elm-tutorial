@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Nikola",
+      "level": 6
+    },
+    {
+      "id": "2",
+      "name": "Aleksandra",
+      "level": 9
+    },
+    {
+      "id": "3",
+      "name": "Marko",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "name": "Pavle",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "name": "Vuk",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "name": "Katarina",
+      "level": 5
+    }
+  ]
+}
