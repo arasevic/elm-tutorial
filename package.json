@@ -20,6 +20,6 @@
     "api": "node api.js",
     "build": "webpack",
     "watch": "webpack --watch",
-    "dev": "webpack-dev-server --port 3000"
+    "dev": "webpack-dev-server --port 5000"
   }
 }
